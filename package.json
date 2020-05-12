@@ -1,0 +1,26 @@
+{
+  "name": "self-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel demo/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNT-Likely/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TNT-Likely/react/issues"
+  },
+  "homepage": "https://github.com/TNT-Likely/react#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
