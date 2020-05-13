@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TNT-Likely/react#readme",
   "devDependencies": {
+    "less": "^3.11.1",
     "typescript": "^3.8.3"
   },
   "dependencies": {
